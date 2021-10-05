@@ -36,7 +36,7 @@
         <div class="medida">
             <div class="image-container">
                 <img src="https://static.wixstatic.com/media/0c505f_dcd5332f4e7f4b77897b4135563243b4~mv2.png/v1/fill/w_188,h_197,al_c,lg_1,q_85/1.webp" alt="Utilizar mascarillas">
-                <h2 class="text-center">Mantener distacia</h2>
+                <h2 class="text-center">Usar mascarilla</h2>
                 <p>
                     Las mascarillas NO reemplazan la práctica del distanciamiento social. Las mascarillas deben usarse además de mantener una distancia de al menos 6 pies, especialmente cuando se encuentra en espacios cerrados rodeado de personas con las que no convive.
                     <br>
